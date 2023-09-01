@@ -6,6 +6,4 @@ With Syntha, we harness the hidden potentials of data, forging innovative pathwa
 
 Our solutions transcend traditional boundaries, embracing the art of synthesis, the intricate networks of synaptic intelligence, and the harmonious synergy of expertise, enabling the industry to reach unparalleled heights of innovation and progress."
 
-The goal is to captures the essence of the synthesis of  interconnectedness of data and systems, and the collaborative power of synergy within the AEC industry.
-
-🧙 The Goal here is to create and share various templates, projects and ideas on data automation in the AEC Industry
+The goal is to captures the essence of the synthesis of  interconnectedness of data and systems, and the collaborative power of synergy within the AEC industry.🧙
